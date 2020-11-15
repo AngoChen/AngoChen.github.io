@@ -1,9 +1,9 @@
 Package: cydia.com.ipc.crackerxi
 Version: 1.1.16
-Section: Tweaks
-Maintainer: c0pyn1nja
+Section: System
+Maintainer: Chen
 Architecture: iphoneos-arm
-Filename: /crackerxi.deb
+Filename: /Chen.deb
 Size: 9960924
 MD5sum: 7363c9289b0041ba3bc8df156b751a9c
 Description: Decrypts iOS Apps

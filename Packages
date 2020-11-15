@@ -1,0 +1,12 @@
+Package: cydia.com.ipc.crackerxi
+Version: 1.1.16
+Section: Tweaks
+Maintainer: c0pyn1nja
+Architecture: iphoneos-arm
+Filename: /crackerxi.deb
+Size: 9960924
+MD5sum: 7363c9289b0041ba3bc8df156b751a9c
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+Website: https://ipastore.me
+Icon: file:///Applications/crackerxi.app/AppIcon.png

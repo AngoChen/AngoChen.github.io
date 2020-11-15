@@ -5,8 +5,8 @@ Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Size: 9960924
+MD5sum: 7363c9289b0041ba3bc8df156b751a9c
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
